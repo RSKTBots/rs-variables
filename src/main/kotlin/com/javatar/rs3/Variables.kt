@@ -1,6 +1,5 @@
-package com.javatar.api.rs.vars
+package com.javatar.rs3
 
-import com.javatar.rs3.VarbitDefinition
 import com.javatar.rs3.VarbitDefinition.Companion.getVar
 import kotlin.reflect.KProperty
 
