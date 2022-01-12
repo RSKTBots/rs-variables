@@ -1,0 +1,40 @@
+Lodestone Unlock Varbits (This could also be ConVars)
+
+Quick teleport charge: 28623
+
+Lumbridge: 35
+Al Kharid: 28
+Varrock: 39
+Dryanor: 32
+Port Sarim: 36
+Falador: 34
+Edgeville: 33
+Taverley: 38
+Burthorpe: 30
+Catherby: 31
+Seers' Village: 37
+Ardougne: 29
+Yanille: 40
+
+Anachronia: 44270
+Canifis: 18523
+Eagles' Peak: 18524
+Ashdale: 22430
+Oo'glog: 18527
+Fremennik Province: 18525
+Karamja: 18526
+Wilderness: 18529
+
+
+
+Prifddinas: 24967 (lodestone unlocked)
+Prifddinas: 23198 (Varbit, Completed Plague's End >= 400 is completed)
+
+Tirannwn: 18528 (lodestone unlocked)
+Tirannwn: 2102 (VarPlayer, Has Player Started Regicide >= 15 has started quest)
+
+Menaphos: 36140 (Is Jack of Trades Complete (>= 100 is complete)
+Menaphos: 36173 (Lodestone unlocked)
+
+Lunar Isle: 9482 <- Lunar Diplomacy Stage Varbit (190 is complete)
+Bandit Camp: 9482 <- Desert Treasure Stage Varbit (15 is complete)

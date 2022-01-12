@@ -1,0 +1,16 @@
+Runecrafting Pouches
+
+item: 5510, 5511, ConVar: 3217
+item: 5512, 5513, ConVar: 3218
+
+
+item: 5514, 5515, ConVar: 3219
+>= 200 -> cap 9
+>= 300 -> cap 8
+>= 400 -> cap 7
+>= 600 -> cap 6
+>= 800 -> cap 5
+>= 1000 -> cap 3
+>= 1200 -> cap 0
+
+
